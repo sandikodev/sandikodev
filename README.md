@@ -34,7 +34,7 @@ Passionate about history, philosophy, realize dream, writing code, build thing's
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandikodev&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ShaderLab,c,Jupyter%20Notebook)
-![Sandikodev's github stats](https://github-readme-stats.vercel.app/api/?username=non&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24)
+![Sandikodev's github stats](https://github-readme-stats.vercel.app/api/?username=sandikodev&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24)
 
 
 ### 🖥️ Major Projects

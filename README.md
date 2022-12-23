@@ -32,11 +32,9 @@
 Passionate about history, philosophy, realize dream, writing code, build thing's happen.
 
 
-<br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandikodev&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ShaderLab,c,Jupyter%20Notebook)
-![Sandikodev's github stats](https://github-readme-stats.vercel.app/api/?username=non&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
-<br>
+![Sandikodev's github stats](https://github-readme-stats.vercel.app/api/?username=non&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24)
 
 
 ### 🖥️ Major Projects
@@ -44,4 +42,4 @@ Passionate about history, philosophy, realize dream, writing code, build thing's
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 | Year | Title                                    | Technologies                           |
 |------|------------------------------------------|----------------------------------------|
-| 2019 | [Gayatri Smart City](https://github.com/lanisitsm/gayatriapp "Project Repo") ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) |
+| 2019 | [Gayatri Smart City](https://github.com/lanisitsm/gayatriapp "Project Repo") | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) |
